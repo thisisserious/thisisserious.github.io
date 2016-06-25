@@ -35,3 +35,7 @@ header p {
 a:hover {
   font-weight: bold;
 }
+.footer {
+  display: flex;
+  justify-content: flex-end;
+}
