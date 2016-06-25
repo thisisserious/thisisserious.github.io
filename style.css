@@ -36,6 +36,5 @@ a:hover {
   font-weight: bold;
 }
 .footer {
-  justify-content: center;
-  align-items: center;
+  display: center;
 }
