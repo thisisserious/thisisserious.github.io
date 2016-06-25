@@ -16,6 +16,13 @@ header p {
   padding: 0 20px;
   margin: 0;
 }
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/294/21f/37ae664.jpg');
+  background-size:auto;
+  color: white;
+  }
 .Skills {
   border: 2px solid black;
   padding: 20px;
