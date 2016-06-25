@@ -1,6 +1,21 @@
 body {
   font-family: 'Poppins', Verdana, sans-serif;
 }
+header {
+  padding: 20px;
+}
+header h1 {
+  font-weight: 300;
+  margin: 0;
+}
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
 .Skills {
   border: 2px solid black;
   padding: 20px;
