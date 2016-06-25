@@ -24,7 +24,6 @@ header p {
   border: 1px solid black;
   padding: 10px;
 }
-a hover {
+a:hover {
   font-weight: bold;
-}
 }
