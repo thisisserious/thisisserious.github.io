@@ -39,4 +39,5 @@ a:hover {
 #footer {
   color: white;
   background-color: grey;
+  align-items: center;
 }
