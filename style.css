@@ -36,6 +36,7 @@ header p {
 a:hover {
   font-weight: bold;
 }
-.footer {
-  align-items: center;
+#footer {
+  color: white;
+  background-color: grey;
 }
