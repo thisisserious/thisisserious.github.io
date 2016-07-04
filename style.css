@@ -1,43 +1,90 @@
 body {
   font-family: 'Poppins', Verdana, sans-serif;
 }
-header {
-  padding: 20px;
+
+#Resume {
+	border: none;
+	border-radius: 10px;
+	background-color: lightgray; 
+	margin: 50px;
+	padding: 50px;
 }
-header h1 {
-  font-weight: 300;
-  margin: 0;
+
+img {
+	border: solid darkgray;
+	border-radius: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+	height: auto;
 }
-header nav {
-  display: flex;
-  justify-content: flex-end;
+a {
+	text-decoration: none;
+	color: #616161;
 }
-header p {
-  padding: 0 20px;
-  margin: 0;
-}
-.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/294/21f/37ae664.jpg');
-  background-size:auto;
-  background-repeat: no-repeat;
-  color: white;
-  }
-.Skills {
-  border: 2px solid black;
-  padding: 20px;
-}
-.Job 1 {
-  border: 1px solid black;
-  padding: 50px;
-  text-decoration: overline underline;
-}
+
 a:hover {
-  font-weight: bold;
+	color: black;
 }
-#footer {
-  color: white;
-  background-color: grey;
-  text-align: center;
+
+h1 {
+	margin-bottom: -30px;
+	padding: 10px 5px 10px 5px;
+	color: black;
+	text-align: center;
+}
+
+#Contact {
+	text-align: center;
+}
+
+#Skills {
+	padding: 5px;
+	margin-bottom: -30px;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: black; 
+}
+#List {
+	padding: 10px;
+}
+
+#Experience {
+	padding: 5px;
+	margin-bottom: -20px;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: black;
+}
+
+.JobTitle {
+	font-style: italic;
+	margin-bottom: -25px;
+}
+
+.DateRange {
+	font-style: italic;
+	margin-bottom: -10px;
+}
+
+#Education {
+	padding: 5px;
+	margin-bottom: -20px;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: black;
+}
+
+#Institution1 {
+	margin-bottom: -25px;
+}
+
+#Degree {
+	margin-bottom: -1px;
+}
+
+#Footer {
+	text-align: center;
+	margin-bottom: -30px;
 }
