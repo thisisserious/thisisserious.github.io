@@ -19,6 +19,7 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
 a {
 	text-decoration: none;
 	color: #616161;
@@ -46,6 +47,7 @@ h1 {
 	border-top-style: solid;
 	border-top-color: black; 
 }
+
 #List {
 	padding: 10px;
 }
