@@ -44,6 +44,7 @@ main {
   border: none;
   border-radius: 10px;
   background-color: lightgray;
+  box-shadow: 10px 7px 20px #888;
   font-family: 'Poppins', Verdana, sans-serif;
   margin: 50px;
   padding: 50px;
