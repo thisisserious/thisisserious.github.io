@@ -1,1 +1,1 @@
-# thisisserious.github.io
+# thisisserious.github.io/resume.html
